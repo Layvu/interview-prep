@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Build
+build/
+dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
