@@ -7,3 +7,4 @@
 Записи собеседований:
 
 1. http://youtube.com/watch?v=vUm4I1jOjak&t=3009s
+2. https://www.youtube.com/watch?v=87Zd41aWl4U
